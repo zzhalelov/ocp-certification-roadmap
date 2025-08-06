@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Что делает оператор ^ и в каких случаях он может быть полезен в алгоритмах?
 public class BitwiseXor {

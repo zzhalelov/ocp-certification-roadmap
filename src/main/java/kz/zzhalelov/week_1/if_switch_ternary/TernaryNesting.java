@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_3_if_switch_ternary;
+package kz.zzhalelov.week_1.if_switch_ternary;
 
 //Измени код, чтобы выводилась буква "A", только если score ≥ 95.
 public class TernaryNesting {

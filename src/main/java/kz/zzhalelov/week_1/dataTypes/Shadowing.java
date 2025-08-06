@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_1_dataTypes;
+package kz.zzhalelov.week_1.dataTypes;
 
 //Что произойдет? Почему? Как исправить ошибку и при этом вывести 30?
 // int x не должно дублироваться.

@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Попробуй вычислить вручную и объяснить порядок операций.
 public class MixedOperators {

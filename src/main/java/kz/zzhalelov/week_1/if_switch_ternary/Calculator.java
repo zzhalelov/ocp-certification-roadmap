@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_3_if_switch_ternary;
+package kz.zzhalelov.week_1.if_switch_ternary;
 
 //Реализуй простую арифметику по символу op. Добавь default: "Оператор не распознан".
 public class Calculator {

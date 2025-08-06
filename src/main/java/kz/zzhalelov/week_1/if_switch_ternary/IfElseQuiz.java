@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_3_if_switch_ternary;
+package kz.zzhalelov.week_1.if_switch_ternary;
 
 //Почему else относится не к первому if, а ко второму?
 //ОТВЕТ: потому что для начала выполняется if внутри, затем внешний if

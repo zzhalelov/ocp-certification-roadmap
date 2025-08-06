@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Что будет выведено? Объясни поведение оператора %.
 public class Arithmetic {

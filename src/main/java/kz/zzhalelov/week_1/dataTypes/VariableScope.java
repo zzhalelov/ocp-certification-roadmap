@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_1_dataTypes;
+package kz.zzhalelov.week_1.dataTypes;
 
 //Что выведет программа? Почему?
 // выведет только 10 из метода main. Метод printX не вызывается в этом коде

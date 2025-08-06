@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Что делают операторы >> и <<?
 public class ShiftExample {

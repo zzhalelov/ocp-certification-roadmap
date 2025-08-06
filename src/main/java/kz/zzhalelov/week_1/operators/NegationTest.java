@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Что делает оператор ! и как изменить условие, чтобы вывести "Access granted"?
 public class NegationTest {

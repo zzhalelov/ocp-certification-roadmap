@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_1_dataTypes;
+package kz.zzhalelov.week_1.dataTypes;
 
 //Что будет выведено на экран? Почему d получается таким?
 public class DataTypeCheck {

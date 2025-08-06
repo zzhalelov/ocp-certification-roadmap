@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_1_dataTypes;
+package kz.zzhalelov.week_1.dataTypes;
 
 //Объясни разницу в поведении num и sb.
 public class ReferenceVsPrimitive {

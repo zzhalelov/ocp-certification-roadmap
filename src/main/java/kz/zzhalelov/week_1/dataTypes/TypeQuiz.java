@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_1_dataTypes;
+package kz.zzhalelov.week_1.dataTypes;
 
 //Почему char + int работает? Что происходит на каждом этапе?
 //потому что у каждого char есть числовое значение. К примеру, у 'A' это 65

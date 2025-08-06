@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Почему результат не 2.5? Как это исправить?
 //если необходимо сделать 2.5 нужен cast ((double) a / b)

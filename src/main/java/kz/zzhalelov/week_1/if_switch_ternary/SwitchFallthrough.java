@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_3_if_switch_ternary;
+package kz.zzhalelov.week_1.if_switch_ternary;
 
 //Что будет выведено? Почему? Как это исправить?
 //Ответ: не установлены break

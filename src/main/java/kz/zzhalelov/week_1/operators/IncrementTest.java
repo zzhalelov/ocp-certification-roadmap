@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Чем отличается x++ от ++x? Почему такие значения x и y?
 public class IncrementTest {

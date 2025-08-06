@@ -1,4 +1,4 @@
-package kz.zzhalelov.week_1.day_2_operators;
+package kz.zzhalelov.week_1.operators;
 
 //Объясни, почему такие результаты. Какие биты установлены в ответе?
 public class Bitwise {
